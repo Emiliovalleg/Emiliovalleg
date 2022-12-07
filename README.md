@@ -1,4 +1,4 @@
-<img align="center" alt="view" max-width= 100% max-hight="300" src="https://media.tenor.com/Ep_QVNj--2gAAAAd/lick.gif">
+<img align="center" alt="view" width= 100%  hight="200px" src="https://media.tenor.com/Ep_QVNj--2gAAAAd/lick.gif">
 
 
 <h1 align="center">Hi 👋, I'm Emilio de Valle</h1>
