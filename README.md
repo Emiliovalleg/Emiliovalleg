@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emilio de Valle</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
+<div style="width:100%"><div style="height:0;padding-bottom:100%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/iqU07uixfQCjzr9aEd/video" style="left:0;position:absolute;top:0" width="100%"></iframe></div></div>
+
 - 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **React, Next.js & tailwind**
