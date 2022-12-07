@@ -12,10 +12,6 @@
 
 - 🤝 I’m looking for help with **frontend projects**
 
-- 📫 How to reach me **emiliovalleg@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/emilio-de-valle-6210b2210/](https://www.linkedin.com/in/emilio-de-valle-6210b2210/)
-
 - ⚡ Fun fact **I switched career paths from industrial engineering with experience in Oil & Gas to become a frontend developer.**
 
 <h3 align="left">Connect with me:</h3>
