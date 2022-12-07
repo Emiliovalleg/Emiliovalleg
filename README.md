@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emilio de Valle</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-<img  align="center" alt="lake" width="auto" src="https://giphy.com/embed/iqU07uixfQCjzr9aEd/video" />
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **My Portfolio**
 
