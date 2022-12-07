@@ -1,4 +1,4 @@
-<img align="center" alt="view" width="800" src="https://media.tenor.com/Ep_QVNj--2gAAAAd/lick.gif">
+<img align="center" alt="view" width="800" hight="300" src="https://media.tenor.com/Ep_QVNj--2gAAAAd/lick.gif">
 
 <h1 align="center">Hi 👋, I'm Emilio de Valle</h1>
 <h3 align="center">A passionate frontend developer.</h3>
